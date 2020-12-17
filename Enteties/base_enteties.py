@@ -22,5 +22,5 @@ class base:
         return common_names
 
 
-user_profile = base()
-user_profile.get_user_profile
+user_profelie = base()
+user_profelie.get_user_profile

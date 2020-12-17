@@ -1,1 +1,1 @@
-from .base_enteties import user_profile
+from .base_enteties import base
